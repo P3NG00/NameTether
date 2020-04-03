@@ -1,0 +1,8 @@
+main: "com.p3ng00.nametether.NameTether"
+name: "NameTether"
+version: "0.0.0"
+author: "P3NG00"
+description: "Adds attaching items to firing arrows!"
+api-version: "1.15"
+prefix: "NameTether"
+load: "POSTWORLD"

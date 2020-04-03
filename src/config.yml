@@ -1,0 +1,5 @@
+allow_any_item: false
+allow:
+  bow: true
+  crossbow: true
+  trident: false
